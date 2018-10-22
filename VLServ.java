@@ -1,4 +1,4 @@
-package ru.hypernet.bgbilling.script.global;
+package ru.nh.bgbilling.script.global;
 
 /**
  * Created by mitya on 8/25/17.
